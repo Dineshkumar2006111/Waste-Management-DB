@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "npm list json-server && node server.js"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.15"
